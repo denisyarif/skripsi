@@ -22,7 +22,7 @@
     <body class="bg-gradient-primary">
         <nav class="navbar navbar-expand-lg navbar-dark bg-white shadow-lg pb-3 pt-3 font-weight-bold">
             <div class="container">
-                <a class="navbar-brand text-primary" style="font-weight: 900;" href="<?= base_url('')?>"> <i class="fa fa-database mr-2 rotate-n-15"></i> Sistem Pendukung Keputusan Metode WP</a>
+                <a class="navbar-brand text-primary" style="font-weight: 900;" href="<?= base_url('')?>"> <i class="fa fa-database mr-2 rotate-n-15"></i> Sistem Pendukung Keputusan Pemilihan Tenant Dengan Metode WP</a>
             </div>
         </nav>
 
@@ -32,7 +32,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 mt-5">
                     <div class="card bg-none o-hidden border-0 my-5 text-white" style="background: none;">
                         <div class="text-justify card-body p-0">
-                            <h4 style="font-weight: 800;">Sistem Pendukung Keputusan Metode WP</h4>
+                            <h4 style="font-weight: 800;">Sistem Pendukung Keputusan Pemilihan Tenant Dengan Metode WP</h4>
                             <p class="pt-4">
                                 Sistem Pendukung Keputusan (SPK) merupakan suatu sistem informasi spesifik yang ditujukan untuk membantu manajemen dalam mengambil keputusan yang berkaitan dengan persoalan yang bersifat semi terstruktur.
                             </p>
@@ -71,7 +71,7 @@
                                             <button name="submit" type="submit" class="btn btn-primary btn-user btn-block"><i class="fas fa-fw fa-sign-in-alt mr-1"></i> Masuk</button>
                                         </form>
 										<hr/>
-										<a href="Pendaftar/daftar" class="btn btn-success btn-user btn-block"><i class="fas fa-fw fa-user-plus mr-1"></i> Pendaftaran</a>
+						
                                     </div>
                                 </div>
                             </div>

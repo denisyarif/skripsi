@@ -77,16 +77,12 @@ if($this->session->status !== ('Logged'))
           <span>Data Sub Kriteria</span></a>
       </li>
 	  
-	  <li class="nav-item <?php if($page=='Alternatif'){echo 'active';}?>">
-        <a class="nav-link" href="<?= base_url('Alternatif'); ?>">
-          <i class="fas fa-fw fa-users"></i>
-          <span>Data Alternatif</span></a>
-      </li>
+	 
 	  
 	  <li class="nav-item <?php if($page=='Pendaftar'){echo 'active';}?>">
         <a class="nav-link" href="<?= base_url('Pendaftar'); ?>">
           <i class="fas fa-fw fa-user-plus"></i>
-          <span>Data Pendaftar</span></a>
+          <span>Data Alternatif/ Pendaftar</span></a>
       </li>
 	  
 	  <li class="nav-item <?php if($page=='Penilaian'){echo 'active';}?>">
